@@ -1,0 +1,122 @@
+.card{
+	background-color: black;
+	height:100vh;
+}
+.card1{
+	background-color: black;
+}
+.card2{
+	font-weight:bold;
+	font-size:70px;
+}
+.card3{
+	font-size:20px;
+}
+.card4{
+	font-size:20px;
+	border-color:#f5c325;
+	border-style:solid;
+}
+.card5{
+	font-size:20px;
+	font-weight:10px;
+}
+.card6{
+	height:60%;
+	width:1177px;
+}
+.card7{
+	padding:100px;
+	background-image:url('beds-5.jpg');
+	margin-top:300px;
+	width:182vh;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.card8{
+	padding:1000px;
+	background-color:black;
+	color:#FFA500;
+}
+.card9{
+	color:white;
+}
+.card-10{
+	background-color:#FFA500;
+	border-radius:35px;
+	padding:10px;
+	font-size:20px;
+}
+.card11{
+	color:white;
+	padding:100px;
+}
+.card12{
+	background:url('beds-6.jpg') left top, url('beds-7.jpg'),url('beds-8.jpg'),url('beds-9.jpg');
+	width:100vh;
+	padding:100px;
+	background-repeat:no-repeat;
+}
+.card13{
+	background-image:url('beds-6.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	height:400px;
+	padding:80px;
+	width:350px;
+	text-align:bottom;
+}
+.card14{
+	background-image:url('beds-7.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	height:400px;
+	padding:80px;
+	width:350px;
+}
+.card15{
+	background-image:url('beds-8.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	height:400px;
+	padding:80px;
+	width:450px;
+}
+.card16{
+	background-image:url('beds-9.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	height:400px;
+	padding:80px;
+	width:360px;
+}
+.card17{
+	height:60vh;
+	width:40vh;
+}
+.card18{
+	height:70vh;
+	width:50vh;
+	padding:20px;
+}
+.card19{
+	height:30vh;
+	width:30vh;
+}
+.card20{
+	color:#FFA500;
+	font-size:40px;
+	padding-left:50px;
+}
+.card21{
+	font-size:20px;
+	padding-left:50px;
+}
+.card22{
+	font-size:60px;
+	padding-left:260px;
+	color:#f5c325;
+}
+.card23{
+	padding:0px;
+}
